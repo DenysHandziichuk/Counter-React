@@ -9,7 +9,7 @@ A simple counter app built with React. You can increase, decrease, and reset the
 
 ## Screenshot 📸
 
-![Counter App Screenshot](path/to/screenshot.png) <!-- Replace with actual screenshot URL -->
+![Counter App Screenshot](screenshot.png)
 
 ## How to Use 🖱️
 
